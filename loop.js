@@ -11,8 +11,6 @@ for (const number of numbers) {
 //For of can not be used with objects.
 const bottle = { name: 'lal Mia', color: 'sadhaPakhi' }
 
-
-
 //Object can used for in ..
 
 for (const keys in bottle) {
